@@ -33,3 +33,4 @@ CSV files for each robot.
 Using Python's remote API for CoppeliaSim, we initialized the positions randomly for each scene and ran the consensus algorithm to collect new data. Our dataset size is about 700 samples for each robot per scene,
 and we stop collecting data for d=0.2 ie when they meet.
 
+#
